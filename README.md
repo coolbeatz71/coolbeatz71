@@ -1,4 +1,4 @@
-![profile](https://github.com/coolbeatz71/coolbeatz71/raw/master/me.png)
+![profile](https://github.com/coolbeatz71/coolbeatz71/raw/main/me.png)
 
 ### Hi 👋, I'm Mutombo jean-vincent
 #### A passionate Full stack developer from DR Congo. I am motivated by constantly improving my skills and change people’s life through technology.
