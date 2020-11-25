@@ -1,18 +1,12 @@
 ![profile](https://github.com/coolbeatz71/coolbeatz71/raw/main/preview.png)
 
 ### Hi 👋, I'm Mutombo jean-vincent
-#### A passionate Full stack developer from DR Congo. I am motivated by constantly improving my skills to change people’s life through technology.
 
 - 🔭 I’m currently working on [a for-profit crowdfunding web app](http://saveplus.io/)
-
 - 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All of my projects are available at my [portfolio](https://docs.google.com/presentation/d/15sNQrBbKHHPSCdofciya0XGESFcn3ONBk8V1qfaWB0o/edit?usp=sharing)
-
-- 📫 How to reach me **sigmacool@gmail.com**
-
 - 📄 Know about my [experiences](https://docs.google.com/document/d/1zbHPzmw-7u-BVC0p64ZQUrQyWMY39JUh4ZkQLWNMPtQ/edit?usp=sharing)
-
+- 📫 How to reach me **sigmacool@gmail.com**
 - ⚡ Fun fact **was a rapper before I become a software engineer: I divorced with the mic to get married with a text-editor**
 
 <h3 align="left">Connect with me:</h3>
