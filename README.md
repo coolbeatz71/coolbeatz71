@@ -1,4 +1,4 @@
-![profile](https://github.com/coolbeatz71/coolbeatz71/raw/main/preview.png)
+![profile](https://github.com/coolbeatz71/coolbeatz71/raw/main/preview_new.png)
 
 ### Hi 👋, I'm Mutombo jean-vincent
 
