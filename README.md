@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Mutombo jean-vincent
 #### A passionate Full stack developer from DR Congo. I am motivated by constantly improving my skills and change people’s life through technology.
 
-- 🔭 I’m currently working on [A for-profit crowdfunding web app](http://saveplus.io/)
+- 🔭 I’m currently working on [a for-profit crowdfunding web app](http://saveplus.io/)
 
 - 🌱 I’m currently learning **Flutter and AWS**
 
