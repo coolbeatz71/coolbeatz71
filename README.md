@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Mutombo jean-vincent
 
 - 🔭 I’m currently working on [a for-profit crowdfunding web app](http://saveplus.io/)
-- 🌱 I’m currently improving my experience in **Flutter**
+- 🌱 I’m currently improving my experience in [**Flutter**](https://flutter.dev/)
 - 👨‍💻 All of my projects are available at my [portfolio](https://docs.google.com/presentation/d/15sNQrBbKHHPSCdofciya0XGESFcn3ONBk8V1qfaWB0o/edit?usp=sharing)
 - 📄 Know about my [experiences](https://docs.google.com/document/d/1zbHPzmw-7u-BVC0p64ZQUrQyWMY39JUh4ZkQLWNMPtQ/edit?usp=sharing)
 - 📫 How to reach me **sigmacool@gmail.com**
