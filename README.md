@@ -27,5 +27,5 @@
 
 ## Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coolbeatz71&layout=compact&count_private=true)
-![](https://github-readme-stats.vercel.app/api?username=coolbeatz71&show_icons=true&count_private=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coolbeatz71&layout=compact&count_private=true&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=coolbeatz71&show_icons=true&count_private=true&include_all_commits=true)
