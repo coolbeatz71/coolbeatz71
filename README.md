@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [a for-profit crowdfunding web app](http://saveplus.io/)
 - 🌱 I’m currently improving my experience in [**Flutter**](https://flutter.dev/)
-- 👨‍💻 All of my projects are available at my [portfolio](https://docs.google.com/presentation/d/15sNQrBbKHHPSCdofciya0XGESFcn3ONBk8V1qfaWB0o/edit?usp=sharing)
+- 👨‍💻 All of my projects are available at my [portfolio](https://coolbeatz71.github.io/meet/#/)
 - 📄 Know about my [experience](https://drive.google.com/file/d/1uYtH7Fdis7iYDNkfwlA3bpg0reiPXKtu/view?usp=sharing)
 - 📫 How to reach me **sigmacool@gmail.com**
 - ⚡ Fun fact: **I divorced with the mic to marry a text-editor** 🔥
