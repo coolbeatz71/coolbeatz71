@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mutombo jean-vincent
 
-- 🔭 I’m currently working on [a for-profit crowdfunding web app](http://saveplus.io/)
+- 🔭 I’m currently working on [SEO improvement for Code of Africa](https://www.codeofafrica.com/EN)
 - 🌱 I’m currently improving my experience in [**Flutter**](https://flutter.dev/)
 - 👨‍💻 All of my projects are available at my [portfolio](https://coolbeatz71.github.io/meet/#/)
 - 📄 Know about my [experience](https://drive.google.com/file/d/1uYtH7Fdis7iYDNkfwlA3bpg0reiPXKtu/view?usp=sharing)
