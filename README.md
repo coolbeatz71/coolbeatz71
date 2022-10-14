@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [SEO improvement for Code of Africa](https://www.codeofafrica.com/EN)
 - 🌱 I’m currently improving my experience in [**Flutter**](https://flutter.dev/)
 - 👨‍💻 All of my projects are available at my [portfolio](https://coolbeatz71.github.io/meet/#/)
-- 📄 Know about my [experience](https://drive.google.com/file/d/1uYtH7Fdis7iYDNkfwlA3bpg0reiPXKtu/view?usp=sharing)
+- 📄 Know about my [experience](https://docs.google.com/presentation/d/15sNQrBbKHHPSCdofciya0XGESFcn3ONBk8V1qfaWB0o)
 - 📫 How to reach me **sigmacool@gmail.com**
 - ⚡ Fun fact: **I divorced with the mic to marry a text-editor** 🔥
 
