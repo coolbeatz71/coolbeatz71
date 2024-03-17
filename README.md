@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mutombo jean-vincent
 
-- 🔭 I’m currently working on [Storm UI]([https://www.codeofafrica.com/EN](https://storm.bestseller.com/))
+- 🔭 I’m currently working on [Storm UI]([https://www.codeofafrica.com/EN](https://storm.bestseller.com/)
 - 🌱 I’m currently improving my experience in [**Flutter**](https://flutter.dev/)
 - 👨‍💻 All of my projects are available at my [portfolio](https://coolbeatz71.github.io/meet/#/)
 - 📄 Know about my [experience](https://docs.google.com/presentation/d/15sNQrBbKHHPSCdofciya0XGESFcn3ONBk8V1qfaWB0o)
