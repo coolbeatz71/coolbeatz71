@@ -15,6 +15,5 @@
 
 ## Stats:
 
-![coolbeatz71's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coolbeatz71&show_icons=true&hide_border=true&theme=shades-of-purple)
-![coolbeatz71's Stats](https://github-readme-stats.vercel.app/api?username=coolbeatz71&show_icons=true&hide_border=true&theme=shades-of-purple&card_width=250)
-[![GitHub Streak](https://streak-stats.demolab.com?user=coolbeatz71&theme=shades-of-purple&card_width=740&card_height=150)](https://git.io/streak-stats)
+![coolbeatz71's Stats](https://github-readme-stats.vercel.app/api?username=coolbeatz71&show_icons=true&hide_border=true&theme=shades-of-purple&card_width=200)
+[![GitHub Streak](https://streak-stats.demolab.com?user=coolbeatz71&theme=shades-of-purple&card_width=540&card_height=195)](https://git.io/streak-stats)
