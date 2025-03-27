@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [Storm UI](https://storm.bestseller.com/)
 - 🌱 I’m currently improving my experience in [**Flutter**](https://flutter.dev/) and [**Rust**](https://www.rust-lang.org/)
-- 👨‍💻 All of my projects are available at my [portfolio](https://coolbeatz71.github.io/meet/#/)
-- 📄 Know about my [experience](https://docs.google.com/presentation/d/15sNQrBbKHHPSCdofciya0XGESFcn3ONBk8V1qfaWB0o)
-- 📫 How to reach me **sigmacool@gmail.com**
+- 👨‍💻 All of my projects are available at my [portfolio](https://www.mutombo.dev/)
+- 📄 Know about my [experience](https://drive.google.com/file/d/1aK94u168qvM_Qo4xIjdCcTDSG4r60qCS/view?usp=sharing)
+- 📫 How to reach me **jeanvincent.mutombo@gmail.com**
 - ⚡ Fun fact: **I divorced with the mic to marry a text-editor** 🔥
 
 #### Reach out to me on
