@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Storm UI](https://storm.bestseller.com/)
 - 🌱 I’m currently improving my experience in [**Flutter**](https://flutter.dev/) and [**Rust**](https://www.rust-lang.org/)
 - 👨‍💻 All of my projects are available at my [portfolio](https://www.mutombo.dev/)
-- 📄 Know about my [experience](https://drive.google.com/file/d/1aK94u168qvM_Qo4xIjdCcTDSG4r60qCS/view?usp=sharing)
+- 📄 Know about my [experience](https://drive.google.com/file/d/1r49phRfd0gb8i4tj6wmMNvDRDXZpRpaP/view?usp=sharing)
 - 📫 How to reach me **jeanvincent.mutombo@gmail.com**
 - ⚡ Fun fact: **I divorced with the mic to marry a text-editor** 🔥
 
