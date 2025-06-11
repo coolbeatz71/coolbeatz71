@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Mutombo jean-vincent
 
 - 🔭 I’m currently working on [Storm UI](https://storm.bestseller.com/)
-- 🌱 I’m currently improving my experience in [**Flutter**](https://flutter.dev/) and [**Rust**](https://www.rust-lang.org/)
+- 🌱 I’m currently improving my experience in [**Flutter**](https://flutter.dev/) and [**.NET**](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 - 👨‍💻 All of my projects are available at my [portfolio](https://www.mutombo.dev/)
 - 📄 Know about my [experience](https://drive.google.com/file/d/12TTYAizbuDJG3oBC26ro5CDa76A9zNu1/view?usp=sharing)
 - 📫 How to reach me **jeanvincent.mutombo@gmail.com**
