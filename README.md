@@ -15,5 +15,5 @@
 
 ## Stats:
 
-![coolbeatz71's Stats](https://github-readme-stats.vercel.app/api?username=coolbeatz71&show_icons=true&hide_border=true&theme=shades-of-purple&card_width=150)
+![coolbeatz71's Stats](https://github-readme-stats.vercel.app/api?username=coolbeatz71&show_icons=true&rank_icon=github&hide_border=true&theme=shades-of-purple&card_width=150)
 [![GitHub Streak](https://streak-stats.demolab.com?user=coolbeatz71&theme=shades-of-purple&card_width=385&card_height=194&hide_border=true)](https://git.io/streak-stats)
