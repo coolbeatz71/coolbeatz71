@@ -9,23 +9,23 @@ Accomplished **Senior Software Engineer** with 8+ years of experience in full-st
 
 ### Frontend Architecture
 
-- Built shared component libraries with Storybook that power multiple production apps
-- Reduced page load times by 30% through performance optimization (OpenTelemetry + Datadog monitoring)
-- Migrated 15,000+ LOC legacy codebases to TypeScript, cutting runtime bugs by 40%
-- Architected micro-frontends with clean architecture principles, improving code maintainability and team autonomy by 35%
+- Built shared component libraries with Storybook that power multiple production apps.
+- Reduced page load times by 30% through performance optimization (OpenTelemetry + Datadog monitoring).
+- Migrated 15,000+ LOC legacy codebases to TypeScript, cutting runtime bugs by 40%.
+- Architected micro-frontends with clean architecture principles, improving code maintainability by 35%.
 
 ### Backend & Infrastructure
 
-- Optimized .NET APIs with async programming and DI, slashing response times by 40%
-- Integrated Kafka event pipelines, reducing API latency by 45% and handling 3× traffic spikes
-- Built Node.js/PostgreSQL backends processing thousands of daily transactions with 99.9% success rates
-- Designed vertical slice architecture and modular monoliths, reducing coupling and accelerating feature delivery by 30%
+- Optimized .NET APIs with async programming and DI, slashing response times by 40%.
+- Integrated Kafka event pipelines, reducing API latency by 45% and handling 3× traffic spikes.
+- Built Node.js/PostgreSQL backends processing thousands of daily transactions with 99.9% success rates.
+- Designed vertical slice architecture and modular monoliths, accelerating feature delivery by 30%
 
 ### DevOps & Quality
 
-- Set up CI/CD pipelines with visual regression tests, cutting post-release hotfixes by 70%
-- Authored reusable testing foundations (Jest, Cypress) that boosted team productivity by 30%
-- Implemented security hardening (CSP, input sanitization) reducing vulnerabilities by 80%
+- Set up CI/CD pipelines with visual regression tests, cutting post-release hotfixes by 70%.
+- Authored reusable testing foundations (Jest, Cypress) that boosted team productivity by 30%.
+- Implemented security hardening (CSP, input sanitization), reducing vulnerabilities by 80%.
 
 ## 💻 Tech Stack
 
@@ -83,14 +83,6 @@ Accomplished **Senior Software Engineer** with 8+ years of experience in full-st
   - Data-driven optimization (OpenTelemetry, Datadog, NewRelic)
   - Test-first development with 100% coverage on critical paths
   - Cross-functional leadership and mentoring
-
-## 🔧 Current Focus
-
-- 🔭 I'm currently working on [Save](https://getsave.io/) mobile application.</br>
-- 🌱 I'm currently improving my experience in [**React-Native**](https://reactnative.dev/), [**Flutter**](https://flutter.dev/) and [**.NET**](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet).</br>
-- 👨‍💻 All of my projects are available at my [portfolio](https://www.mutombo.dev/).</br>
-- 📄 Know about my [experience](https://drive.google.com/file/d/12TTYAizbuDJG3oBC26ro5CDa76A9zNu1/view?usp=sharing).</br>
-- 📫 How to reach me **<jeanvincent.mutombo@gmail.com>**.
 
 ## 🌐 Let's Connect
 
