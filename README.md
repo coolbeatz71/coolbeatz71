@@ -1,6 +1,6 @@
 # Hi, I'm Jean-Vincent 👋
 
-Accomplished **Senior Software Engineer** with 8+ years of experience in full-stack development. Proficient in **JavaScript**, **ReactJS**, **NodeJS**, **TypeScript**, **C#/.NET**, **PHP/Laravel**, **Flutter**, DevOps, and Cloud Platforms. Strong leadership in cross-functional teams, Passionate about clean architecture, developer experience, and delivering high-quality code.</br>
+Accomplished **Senior Software Engineer** with 10 years of experience in full-stack development. Proficient in **JavaScript**, **ReactJS**, **NodeJS**, **TypeScript**, **C#/.NET**, **PHP/Laravel**, **Flutter**, DevOps, and Cloud Platforms. Strong leadership in cross-functional teams, Passionate about clean architecture, developer experience, and delivering high-quality code.</br>
 
 - 🚀 Specialized in building component libraries, micro-frontends, and developer tooling that ship fast and scale well.</br>
 - 💡 Proven track record: 30-45% performance gains, 99.9% uptime in payment systems, and mentoring 5+ developers.
